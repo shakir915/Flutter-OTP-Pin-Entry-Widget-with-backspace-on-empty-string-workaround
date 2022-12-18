@@ -1,8 +1,8 @@
-# Flutter OTP Pin Entry Widget with backspace on empty string workaround
+# Flutter OTP Pin Entry Widget with backspace on empty string workaround refer gist https://gist.github.com/shakir915/ef0832bab02e2ee90a1f7636e6397fe5
 
-## OTPWidget.dart
 
-refer https://gist.github.com/shakir915/ef0832bab02e2ee90a1f7636e6397fe5
+
+
 
 usage
 
